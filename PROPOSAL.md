@@ -1,24 +1,27 @@
-# [Project Name]
+# Movie Ratings App
 ## The problem
-[2–3 sentences. What's annoying or hard right now? Who has this problem?]
+I love watching movies. It is very annoying to watch a full 2 hour movie and then realizing its horrible. At the moment, its hard to find a consistent app that tells me if movies are good or bad. 
 ## The user
-[Who specifically uses this? "Me" is a valid answer if you're honest about it.]
+Me and all my fellow movie watchers.
 ## What it does
-[One paragraph describing the app in plain language, no code words.]
+When I want to see how good a movie is before watching. I search the movie in the app. The app will then show the ratings, a detailed summary without spoilers (if the person watching has a hard time following movies.) Then as you scroll down you can see peoples honest comments about the movie. This app makes it much easier and is way more consistent then simply searching the movie in Google. On this app you can see both sides of the movie. 
 ## Features
 ### Must have (I will definitely build these)
-- [ ] feature
-- [ ] feature
-- [ ] feature
+- [Movie Search] 
+- [Movie Ratings] 
+- [Movie Reviews] 
 ### Nice to have (if I have time)
-- [ ] feature
-- [ ] feature
+- [Watchlist]
+- [Recomandations]
 ## The data
 | What I'm storing | Example |
 |---|---|
-| [thing] | [concrete example] |
+|Movie title|Dark Night|
+|User rating|9|
+|Number of ratings|10|
+
 ## What decision does it make?
-[Where does the app choose between options based on the data?]
+The app decides wether the movie is worth watching based on its average rating.
 ## What does it calculate?
 [What number does it work out that the user couldn't easily get themselves?]
 ## Mockup
