@@ -23,9 +23,34 @@ When I want to see how good a movie is before watching. I search the movie in th
 ## What decision does it make?
 The app decides wether the movie is worth watching based on its average rating.
 ## What does it calculate?
-[What number does it work out that the user couldn't easily get themselves?]
+The app calculates the average rating of a movie by adding all user ratings and dividing by the total number of ratings. This gives users an overall score out of 10 to help them decide whether a movie is worth watching.
 ## Mockup
-[A sketch of the main screen. Paper photo, a drawing, whatever. Just show
-the layout: what's on screen, what buttons exist.]
+The Dark Knight
+
+2008 • Action / Drama
+9.0/10
+Based on 10 user ratings
+Highly Rated
+
+
+
+Spoiler-Free Summary
+
+Batman faces a dangerous new criminal who threatens to bring chaos to Gotham City.
+
+User Reviews
+User 1
+
+9/10
+
+Amazing movie with incredible acting and a great storyline.
+
+User 2
+
+8/10
+
+Very entertaining, although some parts were a little slow.
+
++ Add Your Review
 ## Why I picked this
-[One or two sentences.]
+I picked this idea because I love watching movies, but I don't always know whether a movie is worth watching before spending two hours on it. I wanted to create an app that makes finding honest, reliable movie ratings and reviews easier, all in one place.
